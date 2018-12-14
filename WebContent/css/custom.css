@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+* {
+	font-family : 'Nanum Gothic';
+}
+h1 {
+	font-family : 'Hanna';
+}
+p {
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+a {
+	font-family: 'Anton', sans-serif;
+}
+
+ a, a:hover {
+ 	color: #000000;
+ 	text-decoration: none;
+ }
